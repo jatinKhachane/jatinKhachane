@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jatin Khachane!
 
-Hi, I'm Jatin Khachane, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@oracle](https://www.oracle.com/). I'm a  problem solving enthusiast and a product guy, with a constantly growing love for tech.
+Hi, I'm Jatin Khachane, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@oracle](https://www.oracle.com/). I'm a  problem solving enthusiast, with a constantly growing love for tech.
 
 <a href="https://www.linkedin.com/in/jatin-khachane">
   <img align="left" alt="Tathagat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
