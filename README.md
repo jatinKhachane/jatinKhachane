@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Header](https://github.com/jatinKhachane/jatinKhachane/blob/main/github-header-image%20(1).png?raw=true)
 
 # Hi, I'm Jatin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
