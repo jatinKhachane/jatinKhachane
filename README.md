@@ -1,4 +1,3 @@
-![Header](https://github.com/jatinKhachane/jatinKhachane/blob/main/github-header-image%20(2).png?raw=true)
 
 # Hi, I'm Jatin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
