@@ -12,15 +12,6 @@ Hi, I'm Jatin Khachane, currently, I'm a Software Engineer at 🙍🏽‍♂️ 
 🎓 &nbsp;I'm currently with working at Oracle as Software Engineer.\
 💡 &nbsp;Technologies I enjoy working is Java, JavaScript, TypeScript\
 ✉️ &nbsp;You can reach me on jatinkhachane@gmail.com!
-  
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-
-   
 
 
 <!---
