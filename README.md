@@ -11,7 +11,6 @@ Hi, I'm Jatin Khachane, currently, I'm a Software Engineer at 🙍🏽‍♂️ 
 
 🎓 &nbsp;I'm currently with working at Oracle as Software Engineer.\
 💡 &nbsp;Technologies I enjoy working is Java, JavaScript, TypeScript\
-✉️ &nbsp;You can reach me on jatinkhachane@gmail.com!
 
 
 <!---
