@@ -3,7 +3,7 @@
 
 [![Linkedin: Jatin](https://img.shields.io/badge/-Jatin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinkhachane/)](https://www.linkedin.com/in/jatin-khachane/)
 
-Hi, I'm Jatin Khachane, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@oracle](https://www.oracle.com/). I have completed Master's in Computer Science and Engineering from IIIT-Hyderabad. I'm a  problem solving enthusiast, with a constantly growing love for tech.
+Hi, I'm Jatin Khachane, currently, I'm a Senior Software Engineer at 🙍🏽‍♂️ [@oracle](https://www.oracle.com/). I have completed Master's in Computer Science and Engineering from IIIT-Hyderabad. I'm a  problem solving enthusiast, with a constantly growing love for tech.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
