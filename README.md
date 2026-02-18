@@ -10,7 +10,7 @@ Hi, I'm Jatin Khachane, currently, I'm a Software Engineer at 🙍🏽‍♂️ 
 <img align="right" height="0" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 🎓 &nbsp;I'm currently with working at Oracle as Software Engineer.
-💡 &nbsp;Technologies I enjoy working is Python, JavaScript, TypeScript
+💡 &nbsp;Technologies I enjoy working is Java, JavaScript, Python
 
 
 <!---
